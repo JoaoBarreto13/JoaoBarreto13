@@ -4,7 +4,7 @@
 
 **Desenvolvedor Full Stack | Python | React | TypeScript | Cybersegurança**
 
-[LinkedIn](https://www.linkedin.com/in/joaobarretoba/) • [GitHub](https://github.com/JoaoBarreto13) • Salvador, Bahia 🇧🇷
+[LinkedIn](https://www.linkedin.com/in/joaobarretoba/) • [GitHub](https://github.com/JoaoBarreto13)
 
 </div>
 
