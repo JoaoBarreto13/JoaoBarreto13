@@ -16,7 +16,7 @@ Sou um desenvolvedor **Full Stack** apaixonado por criar soluções web inovador
 
 Nas horas vagas, sou jogador de vôlei como central o mesmo espírito de trabalho em equipe que aplico no desenvolvimento.
 
-### me motiva:
+### Me motiva:
 - Resolver problemas complexos com código limpo e eficiente
 - Aprender e dominar novas tecnologias
 - Contribuir para projetos que impactam positivamente
@@ -100,7 +100,7 @@ Bot inteligente que monitora anúncios da OLX automaticamente e envia notificaç
 
 ---
 
-## 🎓 Aprendizado Contínuo
+## Aprendizado Contínuo
 
 Estou sempre estudando e explorando:
 - **Cybersegurança:** Segurança de aplicações web, boas práticas de proteção
