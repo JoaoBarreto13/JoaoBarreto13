@@ -14,8 +14,6 @@
 
 Sou um desenvolvedor **Full Stack** apaixonado por criar soluções web inovadoras e seguras. Tenho experiência em desenvolvimento backend com Python, frontend em React e TypeScript, e uma paixão especial em Cybersegurança. Adoro transformar ideias em produtos funcionais e contribuir para a comunidade open source.
 
-Nas horas vagas, sou jogador de vôlei como central o mesmo espírito de trabalho em equipe que aplico no desenvolvimento.
-
 ### Me motiva:
 - Resolver problemas complexos com código limpo e eficiente
 - Aprender e dominar novas tecnologias
